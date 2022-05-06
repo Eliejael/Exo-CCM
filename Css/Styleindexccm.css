@@ -1,0 +1,168 @@
+.h1{
+    height: 50px;
+    width: 1500px;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+
+    background-color: rgb(115, 126, 126);
+
+    position: fixed;
+    top:0px;
+    left:-5px;
+
+    display: flex;
+    flex-direction: row;
+
+    color:rgb(3, 3, 3);
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.img1 {
+    height: 30px;
+    width: 30px;
+
+    border-radius: 50px;
+}
+.h1 div{
+    height: 50px;
+    width: 50px;
+
+    border-color: rgb(246, 248, 248);
+    border-width: 1px;
+    border-style: solid;
+    border-right-width: 0px;
+
+    margin-right: 1px;
+
+    position: relative;
+    top:-1px;
+    
+}
+.h1d2{
+    border-color: rgb(246, 248, 248);
+    border-width: 1px !important;
+    border-style: solid; 
+    border-right-width: 1px !important;
+}
+.h1 p{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-left: 20px;
+}
+.h1d6 {
+    height: 50px;
+    width: 150px !important;
+}
+.h1d6:hover{
+    background-color:white;
+}
+.h1d1{
+    margin-left:932px;
+
+    width: 70px !important;
+}
+.h1 div:hover{
+    background-color:white;
+}
+.page1{
+    display: flex;
+    justify-content: space-evenly;
+    
+    column-gap: 15px;
+
+    height: 1500px;
+    width: 1320px;
+
+    padding: 5px;
+
+    position: relative;
+    top:70px;
+
+    z-index: -1;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+.bloc1{
+    /*border-style: solid;*/
+    border-width: 1px;
+    /*border-color: blue;*/
+
+    height: 1400px;
+    width: 350px;
+    
+    
+}
+.b1a1{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(100, 4, 4);
+
+    height: 350px;
+
+    margin-bottom: 15px;
+    
+}
+.b1a2{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(100, 4, 4);
+
+    height: 400px;
+
+    margin-bottom: 15px;
+    
+}
+.b1a3{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(100, 4, 4);
+
+    height: 150px;
+
+    margin-bottom: 15px;
+    
+}
+.b1a4{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(100, 4, 4);
+
+    height: 100px;
+    width: 350px;
+}
+.bloc2{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(100, 4, 4);
+
+    height: 1400px;
+    width: 750px;
+}
+.bloc3{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 72, 0);
+
+    height: 1400px;
+    width: 280px;
+}
+footer{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(2, 2, 2);
+
+    height: 200px;
+    width: 1320px;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(7, 7, 7);
+
+    
+    padding: 5px;
+}
